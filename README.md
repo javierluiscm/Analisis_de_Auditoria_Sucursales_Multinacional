@@ -1,3 +1,5 @@
+![Portada del proyecto](Auditoria)
+
 # 📊 Auditoría de Sucursales Multinacional
 
 Este proyecto se desarrolla en el marco de la formación **“Estadística Esencial para Análisis de Datos con Python”** de la escuela **GROWUP DATA ANALYTICS**.  
